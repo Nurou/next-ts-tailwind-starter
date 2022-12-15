@@ -1,4 +1,4 @@
-This is a starter template for Next.js with the following set up:
+This is a starter template for Next.js with the following setup:
 
 - TypeScript (v4.9)
 - Tailwind CSS (v3.2) & sensible global defaults
